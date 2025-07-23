@@ -1,2 +1,55 @@
 # 100-Days-Challenge
 Solving 100 problems with different patterns for Interview Preparation
+
+>|Day|   Date   |    Problem    |       Pattern        |   Level   |       Codechef          |     
+-----------------------------------------------------------------------------------------------------------------------------
+ | 1 |23-07-2025| Two Sum       | Hash Map + Array     |   Easy    | Target - Pending        |
+ | 2 |                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
+
+# Problem Statement : 
+
+
+
+# Pattern
+
+
+# Brute Force Approach
+
+
+# Optimized Approach
+
+
+# Other Problems Using this Approach
+
+
+# CodeChef Equivalent
+
+
+# Real-World Use
