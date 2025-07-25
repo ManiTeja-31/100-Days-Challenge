@@ -57,3 +57,25 @@ public:
         return ans;
     }
 };
+
+// Hashset Approach 
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        set<vector<int>> res;
+        int n = nums.size();
+        for(int i = 0; i < n; ++i) {
+            unordered_set<int> seen;
+            for(int j = i+1; j < n; ++j) {
+                int target = -nums[i] - nums[j];
+                if(seen.count(target)) {
+                    vector<int> triplet = {nums[i], nums[j], target};
+                    sort(triplet.begin(), triplet.end());
+                    res.insert(triplet);
+                }
+                seen.insert(nums[j]);
+            }
+        }
+        return vector<vector<int>>(res.begin(), res.end());
+    }
+};
