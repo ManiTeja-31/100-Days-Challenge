@@ -3,9 +3,10 @@ Solving 100 problems with different patterns for Interview Preparation
 
 >|Day|   Date   |    Problem    |       Pattern        |   Level   |       Codechef          |     
 -----------------------------------------------------------------------------------------------------------------------------
-# | 1 |23-07-2025| Two Sum       | Hash Map + Array     |   Easy    | Target - Pending        |
-# | 2 |24-07-2025| Container With Most Water| Two Pointer | Medium |     Pending    |                            
-# | 3 |25-07-2025| 3Sum | Sorting + Two Pointer | Medium | Pending | 
+* | 1 |23-07-2025| Two Sum       | Hash Map + Array     |   Easy    | Target - Pending        |
+* | 2 |24-07-2025| Container With Most Water| Two Pointer | Medium |     Pending    |                            
+* | 3 |25-07-2025| 3Sum | Sorting + Two Pointer | Medium | Pending | 
+* | 4 |26-07-2025| Valid Palindrome II | Two Pointer | Easy | Pending |
 
 
 
