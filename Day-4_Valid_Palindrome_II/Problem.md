@@ -61,6 +61,7 @@ We are asked to determine if a string can be converted to a palindrome by removi
 
 3-Blast Palindrome - https://www.codechef.com/practice/course/3-star-difficulty-problems/DIFF1700/problems/BLAST3
 Weird Palindrome Making - https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/MAKEPAL
+The Next Palindrome - https://www.codechef.com/problems/PALIN
 --------------------------------------------------------------------------------------------------------------------------------------
 # Real-World Use
 Fuzzy search engines (spell correction), typo-tolerant login validation.
