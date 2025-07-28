@@ -8,7 +8,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * | 3 |25-07-2025| 3Sum | Sorting + Two Pointer | Medium | Pending | 
 * | 4 |26-07-2025| Valid Palindrome II | Two Pointer | Easy | Pending |
 * | 5 |27-07-2025| Move Zeros | Two Pointer | Easy | Pending |
-
+* | 6 |28-07-2025| 3Sum Closest | Two Pointer + Sorting | Medium | Pending |
 
 
 
