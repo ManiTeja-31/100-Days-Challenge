@@ -9,7 +9,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * | 4 |26-07-2025| Valid Palindrome II | Two Pointer | Easy | Pending |
 * | 5 |27-07-2025| Move Zeros | Two Pointer | Easy | Pending |
 * | 6 |28-07-2025| 3Sum Closest | Two Pointer + Sorting | Medium | Pending |
-
+* | 7 |29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending |
 
 
 
@@ -43,9 +43,11 @@ Solving 100 problems with different patterns for Interview Preparation
 --------------------------------------------------------------------------------------------------------------------------------------
 # Brute Force Approach
 
+🧠 Time & Space Complexity:
 --------------------------------------------------------------------------------------------------------------------------------------
 # Optimized Approach
 
+🧠 Time & Space Complexity:
 --------------------------------------------------------------------------------------------------------------------------------------
 # Other Problems Using this Approach
 
