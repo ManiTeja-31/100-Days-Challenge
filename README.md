@@ -10,7 +10,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * | 5 |27-07-2025| Move Zeros | Two Pointer | Easy | Pending |
 * | 6 |28-07-2025| 3Sum Closest | Two Pointer + Sorting | Medium | Pending |
 * | 7 |29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending |
-
+* | 8 |30-07-2025| Sort Colors | Dutch National Flag Algorithm | Medium | NA |
 
 
 
