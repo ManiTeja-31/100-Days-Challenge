@@ -13,7 +13,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * | 8 |30-07-2025| Sort Colors | Dutch National Flag Algorithm | Medium | NA |
 > * | 9 |31-07-2025| Largest Rectangle in Histogram | Monotonic Stack | Hard | NA | CheckAgain |
 > * | 10 |01-08-2025| Sliding Window Maximum | Sliding Window + Deque | Hard | NA | chekagain |
-
+* | 11 |02-07-2025| Jump Game | Greedy | Medium | NA |
 
 
 
