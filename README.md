@@ -15,7 +15,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |10|01-08-2025| Sliding Window Maximum | Sliding Window + Deque | Hard | NA | chekagain |
 * |11|02-07-2025| Jump Game | Greedy | Medium | NA |
 * |12|03-08-2025| Gas Station | Greedy | Medium | NA |
-
+* |13|04-08-2025| Best time To Buy and sell Stock | Greedy | Easy | NA |
 
 
 
