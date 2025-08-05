@@ -9,14 +9,14 @@ Solving 100 problems with different patterns for Interview Preparation
 * | 4 |26-07-2025| Valid Palindrome II | Two Pointer | Easy | Pending |
 * | 5 |27-07-2025| Move Zeros | Two Pointer | Easy | Pending |
 * | 6 |28-07-2025| 3Sum Closest | Two Pointer + Sorting | Medium | Pending |
-* | 7 |29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending |
+> * | 7 |29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending | CheckAgain |
 * | 8 |30-07-2025| Sort Colors | Dutch National Flag Algorithm | Medium | NA |
 > * | 9 |31-07-2025| Largest Rectangle in Histogram | Monotonic Stack | Hard | NA | CheckAgain |
 > * |10|01-08-2025| Sliding Window Maximum | Sliding Window + Deque | Hard | NA | chekagain |
 * |11|02-07-2025| Jump Game | Greedy | Medium | NA |
 * |12|03-08-2025| Gas Station | Greedy | Medium | NA |
 * |13|04-08-2025| Best time To Buy and sell Stock | Greedy | Easy | NA |
-
+* |14|05-08-2025| Candy | Greedy | Hard | NA |
 
 
 
