@@ -17,7 +17,7 @@ The given approach is a **brute-force** solution. It checks every possible tripl
 We initialize a variable `closest` with the sum of the first three elements. Then we iterate through all unique combinations of three numbers using three nested loops and compute their sum. For each sum, we check how far it is from the target using `abs(target - sum)`. If it's **closer** than the previously stored `closest`, we update `closest`.
 Finally, after examining all triplets, we return the closest sum.
 
-🧠 Time & Space Complexity:
+🧠 Time & Space Complexity:🧠 Time & Space Complexity:
 
 * Time Complexity: O(n³) We use three nested loops
 * Space Complexity: O(1) — We're only using a few variables (`closest`, `sum`, etc.) 
