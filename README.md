@@ -18,6 +18,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |13|04-08-2025| Best time To Buy and sell Stock | Greedy | Easy | NA |
 * |14|05-08-2025| Candy | Greedy | Hard | NA |
 > * |15|06-08-2025| Meeting Rooms II | Greedy + Min Heap | Medium | NA | CheckAgain |
+> * |16|07-08-2025| Lemonade Change | Greedy | Easy | NA | CheckAgain |
 
 
 
