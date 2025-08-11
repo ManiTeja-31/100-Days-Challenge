@@ -9,9 +9,9 @@ Solving 100 problems with different patterns for Interview Preparation
 * |04|26-07-2025| Valid Palindrome II | Two Pointer | Easy | Pending |
 * |05|27-07-2025| Move Zeros | Two Pointer | Easy | Pending |
 * |06| 28-07-2025| 3Sum Closest | Two Pointer + Sorting | Medium | Pending |
-> * |07|29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending | CheckAgain |
+* |07|29-07-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | Pending | CheckAgain |
 * |08|30-07-2025| Sort Colors | Dutch National Flag Algorithm | Medium | NA |
-> * |09|31-07-2025| Largest Rectangle in Histogram | Monotonic Stack | Hard | NA | CheckAgain |
+* |09|31-07-2025| Largest Rectangle in Histogram | Monotonic Stack | Hard | NA | CheckAgain |
 > * |10|01-08-2025| Sliding Window Maximum | Sliding Window + Deque | Hard | NA | NotSolved |
 * |11|02-07-2025| Jump Game | Greedy | Medium | NA |
 * |12|03-08-2025| Gas Station | Greedy | Medium | NA |
@@ -19,10 +19,10 @@ Solving 100 problems with different patterns for Interview Preparation
 * |14|05-08-2025| Candy | Greedy | Hard | NA |
 > * |15|06-08-2025| Meeting Rooms II | Greedy + Min Heap | Medium | NA | NotSolved |
 * |16|07-08-2025| Lemonade Change | Greedy | Easy | NA | 
-> * |17|08-08-2025| Partition Labels | Greedy + Tracking last Indices | Medium | NA | CheckAgain |
-> * |18|09-08-2025| Minimum Number Of Arrows To Burst Balloons | Medium | NA | CheckAgain |
-> * |19|10-08-2025| Task Scheduler | Medium | NA | 
-
+* |17|08-08-2025| Partition Labels | Greedy + Tracking last Indices | Medium | NA | CheckAgain |
+* |18|09-08-2025| Minimum Number Of Arrows To Burst Balloons | Greedy + Interval Merge | Medium | NA | CheckAgain |
+> * |19|10-08-2025| Task Scheduler | Greedy + Frequency Bucket | Medium | NA | NotSolved |
+* |20|11-08-2025| Minimum Number of Platforms Required | Greedy + Sorted Events | Medium | NA | CheckAgain
 
 
 
