@@ -17,7 +17,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |12|03-08-2025| Gas Station | Greedy | Medium | NA |
 * |13|04-08-2025| Best time To Buy and sell Stock | Greedy | Easy | NA |
 * |14|05-08-2025| Candy | Greedy | Hard | NA |
-> * |15|06-08-2025| Meeting Rooms II | Greedy + Min Heap | Medium | NA | NotSolved |
+* |15|06-08-2025| Meeting Rooms II | Greedy + Min Heap | Medium | NA | CheckAgain |
 * |16|07-08-2025| Lemonade Change | Greedy | Easy | NA | 
 * |17|08-08-2025| Partition Labels | Greedy + Tracking last Indices | Medium | NA | CheckAgain |
 * |18|09-08-2025| Minimum Number Of Arrows To Burst Balloons | Greedy + Interval Merge | Medium | NA | CheckAgain |
