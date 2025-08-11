@@ -21,7 +21,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |16|07-08-2025| Lemonade Change | Greedy | Easy | NA | 
 * |17|08-08-2025| Partition Labels | Greedy + Tracking last Indices | Medium | NA | CheckAgain |
 * |18|09-08-2025| Minimum Number Of Arrows To Burst Balloons | Greedy + Interval Merge | Medium | NA | CheckAgain |
-> * |19|10-08-2025| Task Scheduler | Greedy + Frequency Bucket | Medium | NA | NotSolved |
+* |19|10-08-2025| Task Scheduler | Greedy + Frequency Bucket | Medium | NA | Checkagain |
 * |20|11-08-2025| Minimum Number of Platforms Required | Greedy + Sorted Events | Medium | NA | CheckAgain
 
 
