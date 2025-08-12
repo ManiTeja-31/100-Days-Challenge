@@ -217,6 +217,7 @@ Yes ---> 🧱 Can you build the solution step by step?
   |
   v
 No ---> ❌ Likely not greedy or DP (try brute force / graph / other)
+
 ```
 
 ---
@@ -261,11 +262,10 @@ Examples:
 | Can I sort the data and work greedily?         | ✅ Classic case   | Greedy  |
 | Does greedy give incorrect output on examples? | ✅ Counterexample | DP      |
 
----
-
--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ```markdown
+
 # Difference Between "Balloons Blast" and "Minimum Number of Platforms Required"
 
 This guide explains **two popular greedy problems** in a **beginner-friendly way** with diagrams, tips, and key differences.
@@ -282,8 +282,8 @@ The goal is to **find the minimum number of arrows** needed to burst all balloon
 ---
 
 ### **ASCII Diagram**
-```
 
+```
 Positions:  1     2     3     4     5     6     7     8     9    10    11    12
 Balloon 1:  \[-----1 to 6-----]
 Balloon 2:        \[------2 to 8-------]
@@ -298,6 +298,7 @@ Shoot arrow at position 12 → Burst Balloon 3
 ---
 
 ### **Mermaid Diagram (Color-Coded)**
+
 ```mermaid
 gantt
     dateFormat  X

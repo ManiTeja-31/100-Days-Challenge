@@ -1,4 +1,3 @@
-````markdown
 # 📌 `lower_bound` & `upper_bound` in C++
 
 ## 1️⃣ Introduction
@@ -10,7 +9,6 @@ They are defined in:
 #include <algorithm>
 ````
 
----
 
 ## 2️⃣ Function Signatures
 
@@ -211,6 +209,7 @@ Here’s the **color-coded Mermaid diagram** for `lower_bound` vs `upper_bound` 
 ## 🎯 Visual Difference — `lower_bound` vs `upper_bound`
 
 ```mermaid
+
 graph LR
     A[Array: 1 | 2 | 4 | 4 | 5 | 7]:::arr
     LB[lower_bound(4) → First ≥ 4]:::lb
@@ -222,6 +221,7 @@ graph LR
     style A fill:#e8f1f8,stroke:#333,stroke-width:2px
     style LB fill:#b0f2c2,stroke:#0a6,stroke-width:2px
     style UB fill:#ffb3b3,stroke:#a00,stroke-width:2px
+    
 ````
 
 ### Color Meaning:
