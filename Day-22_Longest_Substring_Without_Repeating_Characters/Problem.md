@@ -70,7 +70,7 @@ Given a string s, find the length of the longest substring without duplicate cha
 
 --------------------------------------------------------------------------------------------------------------------------------------
 # Other Problems Using this Approach
-<input type="checkbox id="task-1"> 567. Permutation in String - https://leetcode.com/problems/permutation-in-string/description/
+- []567. Permutation in String - https://leetcode.com/problems/permutation-in-string/description/
 438. Find All Anagrams in a String - https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
 --------------------------------------------------------------------------------------------------------------------------------------
 # CodeChef Equivalent
