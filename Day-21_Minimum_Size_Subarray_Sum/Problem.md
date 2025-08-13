@@ -84,7 +84,7 @@ Given an array of positive integers nums and a positive integer target, return t
 --------------------------------------------------------------------------------------------------------------------------------------
 # Other Problems Using this Approach
 76. Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/description/
-Maximum Size Subarray Sum Equals k - https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/
+0. Maximum Size Subarray Sum Equals k - https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/
 --------------------------------------------------------------------------------------------------------------------------------------
 # CodeChef Equivalent
 NA
