@@ -33,6 +33,6 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |28|19-08-2025| Fruits Into Basket | Medium | NA | NotStarted |
 > * |29|20-08-2025| Sliding Window Median | Hard | NA | NotStarted |
 > * |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Medium | NA | NotStarted |
-
+* |31|22-08-2025| Valid Parentheses | Easy | NA | 
 
 
