@@ -35,4 +35,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Medium | NA | NotStarted |
 * |31|22-08-2025| Valid Parentheses | Stack | Easy | NA | 
 * |32|23-08-2025| Evaluate Reverse Polish Notation | Stack | Medium | NA |
-
+* |33|24-08-2025| Min Stack | Stack | Medium | NA |
