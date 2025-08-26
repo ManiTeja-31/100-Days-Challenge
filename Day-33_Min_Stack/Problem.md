@@ -15,7 +15,7 @@ Implement the MinStack class:
 * You must implement a solution with O(1) time complexity for each function.
 --------------------------------------------------------------------------------------------------------------------------------------
 # Pattern
-Stack with Auxiliary Min Tracking
+> Stack with Auxiliary Min Tracking
 --------------------------------------------------------------------------------------------------------------------------------------
 # PsuedoCode
 

@@ -36,3 +36,5 @@ Solving 100 problems with different patterns for Interview Preparation
 * |31|22-08-2025| Valid Parentheses | Stack | Easy | NA | 
 * |32|23-08-2025| Evaluate Reverse Polish Notation | Stack | Medium | NA |
 * |33|24-08-2025| Min Stack | Stack | Medium | NA |
+* |34|25-08-2025| Next Greater Element I | Monotonic Stack | Easy | NA |
+* |35|26-08-2025| Daily Temparatures | Monotonic Stack | Medium | NA |
