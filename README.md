@@ -38,3 +38,4 @@ Solving 100 problems with different patterns for Interview Preparation
 * |33|24-08-2025| Min Stack | Stack | Medium | NA |
 * |34|25-08-2025| Next Greater Element I | Monotonic Stack | Easy | NA |
 * |35|26-08-2025| Daily Temparatures | Monotonic Stack | Medium | NA |
+* |36|27-08-2025| Inorder Successor In BST | Stack or Recursion | Easy | NA | CheckAgain |
