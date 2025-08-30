@@ -40,3 +40,35 @@ Solving 100 problems with different patterns for Interview Preparation
 * |35|26-08-2025| Daily Temparatures | Monotonic Stack | Medium | NA |
 * |36|27-08-2025| Inorder Successor In BST | Stack or Recursion | Easy | NA | CheckAgain |
 * |37|28-08-2025| Simplify Path | Stack | Medium | NA | CheckAgain |
+> * |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | NotStarted |
+> * |39|30-08-2025| Basic Calculator | Stack | Hard | NA | NotStarted |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
