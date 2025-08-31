@@ -42,7 +42,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |37|28-08-2025| Simplify Path | Stack | Medium | NA | CheckAgain |
 > * |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | NotStarted |
 > * |39|30-08-2025| Basic Calculator | Stack | Hard | NA | NotStarted |
-
+> * |40|31-08-2025| Decode String | Stack | Medium | NA | NotStarted |
 
 
 
