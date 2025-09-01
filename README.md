@@ -43,7 +43,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | NotStarted |
 > * |39|30-08-2025| Basic Calculator | Stack | Hard | NA | NotStarted |
 > * |40|31-08-2025| Decode String | Stack | Medium | NA | NotStarted |
-
+* |41|01-08-2025| 3Sum | Two Pointer + Sorting | Medium | NA | 
 
 
 
