@@ -47,7 +47,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |42|02-08-2025| Trapping Rainwater | Two Pointer or Stacks | Hard | NA | CheckAgain |
 > * |43|03-08-2025| Container With Most Water | Two Pointer | 
 > * |44|04-09-2025| Merge Intervals | Greedy + Sorting | Medium | NA | NotStarted |
-
+> * |45|05-09-2025| Insert Interval |
 
 
 
