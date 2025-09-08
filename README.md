@@ -50,7 +50,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |45|05-09-2025| Insert Interval |
 > * |46|06-09-2025| Non Overlapping Intervals |
 > * |47|07-09-2025| Meeting Rooms II |
-
+> * |48|08-09-2025| Find The Duplicate Number | 
 
 
 
