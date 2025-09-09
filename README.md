@@ -45,7 +45,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |40|31-08-2025| Decode String | Stack | Medium | NA | NotStarted |
 * |41|01-09-2025| 3Sum | Two Pointer + Sorting | Medium | NA | 
 * |42|02-09-2025| Trapping Rainwater | Two Pointer or Stacks | Hard | NA | CheckAgain |
-> * |43|03-09-2025| Container With Most Water | Two Pointer | 
+* |43|03-09-2025| Container With Most Water | Two Pointer | Medium | NA |
 > * |44|04-09-2025| Merge Intervals | Greedy + Sorting | Medium | NA | NotStarted |
 > * |45|05-09-2025| Insert Interval |
 > * |46|06-09-2025| Non Overlapping Intervals |
