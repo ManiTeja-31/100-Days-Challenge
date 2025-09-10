@@ -52,7 +52,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |47|07-09-2025| Meeting Rooms II |
 > * |48|08-09-2025| Find The Duplicate Number | 
 > * |49|09-09-2025| Longest Consecutive Sequence | 
-
+* |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 
 
 
