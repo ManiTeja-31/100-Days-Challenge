@@ -164,4 +164,4 @@ Return intervals after the insertion.
 
 ## 🌍 Real-World Use
 
-> Insert time slot
+> Insert time slot into calendar schedule
