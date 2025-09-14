@@ -55,7 +55,8 @@ Solving 100 problems with different patterns for Interview Preparation
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 > * |51|11-09-2025| Permutations | 
 > * |52|12-09-2025| Permutations II |
-
+> * |53|13-09-2025| Subsets |
+> * |54|14-09-2025| Subsets II |
 
 
 
