@@ -58,7 +58,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |53|13-09-2025| Subsets |
 > * |54|14-09-2025| Subsets II |
 > * |55|15-09-2025| Letter Combination Of A Phone Number | 
-
+> * |56|16-09-2025| Word Search |
 
 
 
