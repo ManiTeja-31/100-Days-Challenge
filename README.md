@@ -59,7 +59,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |54|14-09-2025| Subsets II |
 > * |55|15-09-2025| Letter Combination Of A Phone Number | 
 > * |56|16-09-2025| Word Search |
->
+> * |57|17-09-2025| Palindrome Partitioning |
 
 
 
