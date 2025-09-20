@@ -62,7 +62,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |57|17-09-2025| Palindrome Partitioning |
 > * |58|18-09-2025| Combination Sum |
 > * |59|19-09-2025| Combination Sum II |
-
+> * |60|20-09-2025| Generate Parenthesis |
 
 
 
