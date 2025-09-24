@@ -66,7 +66,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |61|21-09-2025| Climbing Stairs |
 > * |62|22-09-2025| House Robber |
 > * |63|23-09-2025| House Robber II |
-
+> * |64|24-09-2025| Longest Palindromic substring |
 
 
 
