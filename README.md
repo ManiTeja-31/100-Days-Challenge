@@ -68,7 +68,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |63|23-09-2025| House Robber II |
 > * |64|24-09-2025| Longest Palindromic substring |
 > * |65|25-09-2025| Longest Common Subsequence |
-
+> * |66|26-09-2025| Longest Increasing Subsequence |
 
 
 
