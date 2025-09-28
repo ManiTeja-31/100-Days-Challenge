@@ -70,7 +70,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |65|25-09-2025| Longest Common Subsequence |
 > * |66|26-09-2025| Longest Increasing Subsequence |
 > * |67|27-09-2025| Partition Equal Subset Sum |
-
+> * |68|28-09-2025| Target Sum |
 
 
 
