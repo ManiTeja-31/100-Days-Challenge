@@ -73,5 +73,5 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |68|28-09-2025| Target Sum |
 > * |69|29-09-2025| Coin Change |
 > * |70|30-09-2025| Coin Change II |
-
+> * |71|01-10-2025| Trapping Rain Water |
 
