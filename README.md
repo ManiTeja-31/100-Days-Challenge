@@ -29,7 +29,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |24|15-08-2025| Minimum Window Substring | Sliding Window + Frequency Match | Hard | NA | CheckAgain |
 * |25|16-08-2025| Longest Repeating Characters Replacement | Medium | NA | CheckAgain |
 * |26|17-08-2025| Find All Anagrams In a String | Sliding Window + Frequency  Count | Medium | NA |
-> * |27|18-08-2025| Subarray Sum divisible By k | Medium | NA | NotStarted |
+* |27|18-08-2025| Subarray Sum divisible By k | Medium | NA | Notes + Checkagain |
 * |28|19-08-2025| Fruits Into Basket | Medium | NA | CheckAgain |
 > * |29|20-08-2025| Sliding Window Median | Hard | NA | NotStarted |
 > * |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Medium | NA | NotStarted |
