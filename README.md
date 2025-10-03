@@ -51,7 +51,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |46|06-09-2025| Non Overlapping Intervals | Greedy + Sorting | NA | CheckAgain + Notes |
 > * |47|07-09-2025| Meeting Rooms II | Greedy + Min Heap | 
 * |48|08-09-2025| Find The Duplicate Number | Floyd’s Cycle Detection / Binary Search | NA | CheckAgain |
-> * |49|09-09-2025| Longest Consecutive Sequence | 
+* |49|09-09-2025| Longest Consecutive Sequence | Hashing | NA | CheckAgain |
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 > * |51|11-09-2025| Permutations | 
 > * |52|12-09-2025| Permutations II |
