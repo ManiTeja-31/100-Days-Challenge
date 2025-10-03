@@ -48,7 +48,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |43|03-09-2025| Container With Most Water | Two Pointer | Medium | NA |
 * |44|04-09-2025| Merge Intervals | Greedy + Sorting | Medium | NA | 
 * |45|05-09-2025| Insert Interval | Merging Intervals | Medium | NA | CheckAgain |
-> * |46|06-09-2025| Non Overlapping Intervals |
+* |46|06-09-2025| Non Overlapping Intervals | Greedy + Sorting | NA | CheckAgain + Notes |
 > * |47|07-09-2025| Meeting Rooms II | Greedy + Min Heap | 
 > * |48|08-09-2025| Find The Duplicate Number | 
 > * |49|09-09-2025| Longest Consecutive Sequence | 

@@ -1,12 +1,14 @@
-> [] - 
-> Level - 
+> [Non Overlapping Intervals] - https://leetcode.com/problems/non-overlapping-intervals/description/
+> Level - Medium
 --------------------------------------------------------------------------------------------------------------------------------------
 # Problem Statement : 
 
+Given an array of intervals intervals where intervals[i] = [starti, endi], return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
 
+Note that intervals which only touch at a point are non-overlapping. For example, [1, 2] and [2, 3] are non-overlapping.
 --------------------------------------------------------------------------------------------------------------------------------------
 # Pattern
-
+> Greedy + Sorting
 --------------------------------------------------------------------------------------------------------------------------------------
 # PsuedoCode
 
@@ -20,9 +22,11 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 # Other Problems Using this Approach
-
+1235. Maximum Profit in Job Scheduling - https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
+630. Course Schedule III - https://leetcode.com/problems/course-schedule-iii/description/
 --------------------------------------------------------------------------------------------------------------------------------------
 # CodeChef Equivalent
 NA
 --------------------------------------------------------------------------------------------------------------------------------------
 # Real-World Use
+Maximize independent events in schedule
