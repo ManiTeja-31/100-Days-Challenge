@@ -64,8 +64,8 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |59|19-09-2025| Combination Sum II |
 > * |60|20-09-2025| Generate Parenthesis |
 * |61|21-09-2025| Climbing Stairs | Fibonacci/Dp | Easy | NA |
-> * |62|22-09-2025| House Robber |
-> * |63|23-09-2025| House Robber II |
+* |62|22-09-2025| House Robber | dp | Medium | NA |
+* |63|23-09-2025| House Robber II | dp | Medium | NA | CheckAgain |
 > * |64|24-09-2025| Longest Palindromic substring |
 > * |65|25-09-2025| Longest Common Subsequence |
 > * |66|26-09-2025| Longest Increasing Subsequence |
