@@ -58,7 +58,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |53|13-09-2025| Subsets | Recursion/Bit Manipulation | NA | CheckAgain |
 * |54|14-09-2025| Subsets II | Recursion + Sets/ Bit Manupulation | NA | CheckAgain |
 > * |55|15-09-2025| Letter Combination Of A Phone Number | 
-> * |56|16-09-2025| Word Search |
+* |56|16-09-2025| Word Search | DFS + BackTracking | Medium | NA |
 > * |57|17-09-2025| Palindrome Partitioning |
 > * |58|18-09-2025| Combination Sum |
 > * |59|19-09-2025| Combination Sum II |
