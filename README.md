@@ -55,8 +55,8 @@ Solving 100 problems with different patterns for Interview Preparation
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 * |51|11-09-2025| Permutations | BackTracking | Medium | NA | CheckAgain |
 * |52|12-09-2025| Permutations II | BackTracking + Sets | NA | 
-> * |53|13-09-2025| Subsets |
-> * |54|14-09-2025| Subsets II |
+* |53|13-09-2025| Subsets | Recursion/Bit Manipulation | NA | CheckAgain |
+* |54|14-09-2025| Subsets II | Recursion + Sets/ Bit Manupulation | NA | CheckAgain |
 > * |55|15-09-2025| Letter Combination Of A Phone Number | 
 > * |56|16-09-2025| Word Search |
 > * |57|17-09-2025| Palindrome Partitioning |

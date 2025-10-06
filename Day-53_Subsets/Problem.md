@@ -7,7 +7,7 @@ Given an integer array nums of unique elements, return all possible subsets (the
 The solution set must not contain duplicate subsets. Return the solution in any order.
 --------------------------------------------------------------------------------------------------------------------------------------
 # Pattern
-
+> Recursion + Bit Manipulation 
 --------------------------------------------------------------------------------------------------------------------------------------
 ## 1. 🌲 Backtracking (DFS) – Include / Exclude Method
 
