@@ -78,3 +78,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |73|03-10-2025| Longest Palindromic Substring |
 > * |74|04-10-2025| Basic Calculator |
 > * |75|05-10-2025| Reconstruct Iternary |
+* |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
