@@ -54,7 +54,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |49|09-09-2025| Longest Consecutive Sequence | Hashing | NA | CheckAgain |
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 * |51|11-09-2025| Permutations | BackTracking | Medium | NA | CheckAgain |
-> * |52|12-09-2025| Permutations II |
+* |52|12-09-2025| Permutations II | BackTracking + Sets | NA | 
 > * |53|13-09-2025| Subsets |
 > * |54|14-09-2025| Subsets II |
 > * |55|15-09-2025| Letter Combination Of A Phone Number | 
