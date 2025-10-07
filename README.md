@@ -61,7 +61,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |56|16-09-2025| Word Search | DFS + BackTracking | Medium | NA |
 > * |57|17-09-2025| Palindrome Partitioning |
 * |58|18-09-2025| Combination Sum | BackTracking | Medium | NA |
-> * |59|19-09-2025| Combination Sum II |
+* |59|19-09-2025| Combination Sum II | Backtracking + Duplicate Handling | Medium | NA |
 > * |60|20-09-2025| Generate Parenthesis |
 * |61|21-09-2025| Climbing Stairs | Fibonacci/Dp | Easy | NA |
 * |62|22-09-2025| House Robber | dp | Medium | NA |
