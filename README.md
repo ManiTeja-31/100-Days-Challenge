@@ -62,7 +62,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |57|17-09-2025| Palindrome Partitioning |
 * |58|18-09-2025| Combination Sum | BackTracking | Medium | NA |
 * |59|19-09-2025| Combination Sum II | Backtracking + Duplicate Handling | Medium | NA |
-> * |60|20-09-2025| Generate Parenthesis |
+* |60|20-09-2025| Generate Parenthesis | Backtracking with Constraints | Medium | NA |
 * |61|21-09-2025| Climbing Stairs | Fibonacci/Dp | Easy | NA |
 * |62|22-09-2025| House Robber | dp | Medium | NA |
 * |63|23-09-2025| House Robber II | dp | Medium | NA | CheckAgain |
@@ -80,3 +80,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |75|05-10-2025| Reconstruct Iternary |
 * |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
 > * |77|07-10-2025| Number Of Islands |
+> * |78|08-10-2025| Word Search | 
