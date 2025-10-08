@@ -79,5 +79,5 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |74|04-10-2025| Basic Calculator |
 > * |75|05-10-2025| Reconstruct Iternary |
 * |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
-> * |77|07-10-2025| Number Of Islands |
-> * |78|08-10-2025| Word Search | 
+* |77|07-10-2025| Number Of Islands | BFS/DFS | Medium | NA |
+* |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
