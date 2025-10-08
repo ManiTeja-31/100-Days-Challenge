@@ -54,10 +54,10 @@ Solving 100 problems with different patterns for Interview Preparation
 * |49|09-09-2025| Longest Consecutive Sequence | Hashing | NA | CheckAgain |
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
 * |51|11-09-2025| Permutations | BackTracking | Medium | NA | CheckAgain |
-* |52|12-09-2025| Permutations II | BackTracking + Sets | NA | 
-* |53|13-09-2025| Subsets | Recursion/Bit Manipulation | NA | CheckAgain |
-* |54|14-09-2025| Subsets II | Recursion + Sets/ Bit Manupulation | NA | CheckAgain |
-> * |55|15-09-2025| Letter Combination Of A Phone Number | 
+* |52|12-09-2025| Permutations II | BackTracking + Sets | Medium | NA | 
+* |53|13-09-2025| Subsets | Recursion/Bit Manipulation | Medium | NA | CheckAgain |
+* |54|14-09-2025| Subsets II | Recursion + Sets/ Bit Manupulation | Medium | NA | CheckAgain |
+* |55|15-09-2025| Letter Combination Of A Phone Number | Backtracking + Map Lookup | Medium | NA |
 * |56|16-09-2025| Word Search | DFS + BackTracking | Medium | NA |
 > * |57|17-09-2025| Palindrome Partitioning |
 * |58|18-09-2025| Combination Sum | BackTracking | Medium | NA |
