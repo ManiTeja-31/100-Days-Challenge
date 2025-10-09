@@ -82,4 +82,5 @@ Solving 100 problems with different patterns for Interview Preparation
 * |77|07-10-2025| Number Of Islands | BFS/DFS | Medium | NA |
 * |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
 > * |79|09-10-2025| N Queens | Backtracking + Pruning | Hard | NA |
+* |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
 
