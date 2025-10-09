@@ -1,12 +1,12 @@
-> [] - 
-> Level - 
+> [Palindrome Partition] - https://leetcode.com/problems/palindrome-partitioning/description/
+> Level - Medium
 --------------------------------------------------------------------------------------------------------------------------------------
 # Problem Statement : 
 
-
+Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s.
 --------------------------------------------------------------------------------------------------------------------------------------
 # Pattern
-
+> BackTracking + Dp
 --------------------------------------------------------------------------------------------------------------------------------------
 # PsuedoCode
 
@@ -26,3 +26,4 @@
 NA
 --------------------------------------------------------------------------------------------------------------------------------------
 # Real-World Use
+Palindromic segmentation in DNA strings or encryption   
