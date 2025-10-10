@@ -29,10 +29,10 @@ Solving 100 problems with different patterns for Interview Preparation
 * |24|15-08-2025| Minimum Window Substring | Sliding Window + Frequency Match | Hard | NA | CheckAgain |
 * |25|16-08-2025| Longest Repeating Characters Replacement | Medium | NA | CheckAgain |
 * |26|17-08-2025| Find All Anagrams In a String | Sliding Window + Frequency  Count | Medium | NA |
-* |27|18-08-2025| Subarray Sum divisible By k | Medium | NA | Notes + Checkagain |
-* |28|19-08-2025| Fruits Into Basket | Medium | NA | CheckAgain |
+* |27|18-08-2025| Subarray Sum divisible By k | Sliding Window | Medium | NA | Notes + Checkagain |
+* |28|19-08-2025| Fruits Into Basket | Medium | Sliding Window | NA | CheckAgain |
 > * |29|20-08-2025| Sliding Window Median | Hard | NA | NotStarted |
-> * |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Medium | NA | NotStarted |
+* |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Sliding Window | Medium | NA |
 * |31|22-08-2025| Valid Parentheses | Stack | Easy | NA | 
 * |32|23-08-2025| Evaluate Reverse Polish Notation | Stack | Medium | NA |
 * |33|24-08-2025| Min Stack | Stack | Medium | NA |
@@ -83,4 +83,5 @@ Solving 100 problems with different patterns for Interview Preparation
 * |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
 > * |79|09-10-2025| N Queens | Backtracking + Pruning | Hard | NA |
 * |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
+
 
