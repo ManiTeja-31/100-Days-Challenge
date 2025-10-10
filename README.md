@@ -27,7 +27,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |22|13-08-2025| Longest Substring without Repeating Characters | Sliding Window + Hashmap | Medium | NA |
 * |23|14-08-2025| Permutation In String | Sliding Window + Frequency Count | Medium | NA |
 * |24|15-08-2025| Minimum Window Substring | Sliding Window + Frequency Match | Hard | NA | CheckAgain |
-* |25|16-08-2025| Longest Repeating Characters Replacement | Medium | NA | CheckAgain |
+* |25|16-08-2025| Longest Repeating Characters Replacement | Sliding Window + Max Frequency | Medium | NA | CheckAgain |
 * |26|17-08-2025| Find All Anagrams In a String | Sliding Window + Frequency  Count | Medium | NA |
 * |27|18-08-2025| Subarray Sum divisible By k | Sliding Window | Medium | NA | Notes + Checkagain |
 * |28|19-08-2025| Fruits Into Basket | Medium | Sliding Window | NA | CheckAgain |
@@ -42,7 +42,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |37|28-08-2025| Simplify Path | Stack | Medium | NA | CheckAgain |
 > * |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | NotStarted |
 * |39|30-08-2025| Basic Calculator | Stack | Hard | NA | CheckAgain |
-> * |40|31-08-2025| Decode String | Stack | Medium | NA | NotStarted |
+* |40|31-08-2025| Decode String | Stack | Medium | NA | CheckAgain |
 * |41|01-09-2025| 3Sum | Two Pointer + Sorting | Medium | NA | 
 * |42|02-09-2025| Trapping Rainwater | Two Pointer or Stacks | Hard | NA | CheckAgain |
 * |43|03-09-2025| Container With Most Water | Two Pointer | Medium | NA |
