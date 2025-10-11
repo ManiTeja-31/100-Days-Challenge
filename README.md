@@ -83,5 +83,5 @@ Solving 100 problems with different patterns for Interview Preparation
 * |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
 * |79|09-10-2025| N Queens | Backtracking + Pruning | Hard | NA | CheckAgain |
 * |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
-
+> * |81|11-10-2025| Maximum Profit In Job Scheduling | 
 
