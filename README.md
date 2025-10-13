@@ -72,7 +72,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |67|27-09-2025| Partition Equal Subset Sum |
 > * |68|28-09-2025| Target Sum |
 * |69|29-09-2025| Coin Change | Dp | Medium | NA | CheckAgain |
-> * |70|30-09-2025| Coin Change II |
+* |70|30-09-2025| Coin Change II | Dp | Medium | NA | CheckAgain |
 * |71|01-10-2025| Trapping Rain Water | Two Pointer or Stacks | Hard | NA | CheckAgain |
 * |72|02-10-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | NA | CheckAgain |
 > * |73|03-10-2025| Longest Palindromic Substring |
