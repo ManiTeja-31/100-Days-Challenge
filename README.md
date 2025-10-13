@@ -64,14 +64,14 @@ Solving 100 problems with different patterns for Interview Preparation
 * |59|19-09-2025| Combination Sum II | Backtracking + Duplicate Handling | Medium | NA |
 * |60|20-09-2025| Generate Parenthesis | Backtracking with Constraints | Medium | NA |
 * |61|21-09-2025| Climbing Stairs | Fibonacci/Dp | Easy | NA |
-* |62|22-09-2025| House Robber | dp | Medium | NA |
-* |63|23-09-2025| House Robber II | dp | Medium | NA | CheckAgain |
+* |62|22-09-2025| House Robber | Dp | Medium | NA |
+* |63|23-09-2025| House Robber II | Dp | Medium | NA | CheckAgain |
 > * |64|24-09-2025| Longest Palindromic substring |
 > * |65|25-09-2025| Longest Common Subsequence |
 > * |66|26-09-2025| Longest Increasing Subsequence |
 > * |67|27-09-2025| Partition Equal Subset Sum |
 > * |68|28-09-2025| Target Sum |
-> * |69|29-09-2025| Coin Change |
+* |69|29-09-2025| Coin Change | Dp | Medium | NA | CheckAgain |
 > * |70|30-09-2025| Coin Change II |
 * |71|01-10-2025| Trapping Rain Water | Two Pointer or Stacks | Hard | NA | CheckAgain |
 * |72|02-10-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | NA | CheckAgain |
@@ -86,3 +86,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |81|11-10-2025| Maximum Profit In Job Scheduling | 
 > * |82|12-10-2025| Count Of Smaller Numbers After Self |
 > * |83|13-10-2025| Palindromic Substring |
+
+
+
+
