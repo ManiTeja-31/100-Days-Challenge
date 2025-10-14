@@ -86,7 +86,7 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |81|11-10-2025| Maximum Profit In Job Scheduling | 
 > * |82|12-10-2025| Count Of Smaller Numbers After Self |
 > * |83|13-10-2025| Palindromic Substring |
-
+> * |84|14-10-2025| Word Ladder |
 
 
 
