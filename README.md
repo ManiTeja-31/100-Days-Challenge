@@ -67,10 +67,10 @@ Solving 100 problems with different patterns for Interview Preparation
 * |62|22-09-2025| House Robber | Dp | Medium | NA |
 * |63|23-09-2025| House Robber II | Dp | Medium | NA | CheckAgain |
 > * |64|24-09-2025| Longest Palindromic substring |
-> * |65|25-09-2025| Longest Common Subsequence |
+* |65|25-09-2025| Longest Common Subsequence | Dp | Medium | NA | CheckAgain | 
 * |66|26-09-2025| Longest Increasing Subsequence | Dp | Medium | NA | CheckAgain |
 * |67|27-09-2025| Partition Equal Subset Sum | Dp | Medium | NA | CheckAgain |
-> * |68|28-09-2025| Target Sum |
+* |68|28-09-2025| Target Sum | Dp | Medium | NA | CheckAgain |
 * |69|29-09-2025| Coin Change | Dp | Medium | NA | CheckAgain |
 * |70|30-09-2025| Coin Change II | Dp | Medium | NA | CheckAgain |
 * |71|01-10-2025| Trapping Rain Water | Two Pointer or Stacks | Hard | NA | CheckAgain |
