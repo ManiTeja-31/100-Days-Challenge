@@ -76,7 +76,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |71|01-10-2025| Trapping Rain Water | Two Pointer or Stacks | Hard | NA | CheckAgain |
 * |72|02-10-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | NA | CheckAgain |
 > * |73|03-10-2025| Longest Palindromic Substring |
-> * |74|04-10-2025| Basic Calculator |
+* |74|04-10-2025| Basic Calculator | Stack | Hard | NA | CheckAgain |
 > * |75|05-10-2025| Reconstruct Iternary |
 * |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
 * |77|07-10-2025| Number Of Islands | BFS/DFS | Medium | NA |
