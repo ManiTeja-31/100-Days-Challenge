@@ -85,7 +85,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
 > * |81|11-10-2025| Maximum Profit In Job Scheduling | 
 > * |82|12-10-2025| Count Of Smaller Numbers After Self |
-> * |83|13-10-2025| Palindromic Substring |
+* |83|13-10-2025| Palindromic Substring | Dp/Expand around Center | Medium | NA | CheckAgain |
 > * |84|14-10-2025| Word Ladder |
 > * |85|15-10-2025| Burst Ballons |
 > * |86|16-10-2025| Design Twitter |
