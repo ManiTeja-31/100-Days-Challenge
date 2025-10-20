@@ -66,7 +66,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |61|21-09-2025| Climbing Stairs | Fibonacci/Dp | Easy | NA |
 * |62|22-09-2025| House Robber | Dp | Medium | NA |
 * |63|23-09-2025| House Robber II | Dp | Medium | NA | CheckAgain |
-> * |64|24-09-2025| Longest Palindromic substring |
+* |64|24-09-2025| Longest Palindromic substring | Dp/Center Expansion | Medium | NA | CheckAgain |
 * |65|25-09-2025| Longest Common Subsequence | Dp | Medium | NA | CheckAgain | 
 * |66|26-09-2025| Longest Increasing Subsequence | Dp | Medium | NA | CheckAgain |
 * |67|27-09-2025| Partition Equal Subset Sum | Dp | Medium | NA | CheckAgain |
@@ -75,7 +75,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |70|30-09-2025| Coin Change II | Dp | Medium | NA | CheckAgain |
 * |71|01-10-2025| Trapping Rain Water | Two Pointer or Stacks | Hard | NA | CheckAgain |
 * |72|02-10-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | NA | CheckAgain |
-> * |73|03-10-2025| Longest Palindromic Substring |
+* |73|03-10-2025| Longest Palindromic Substring | Dp/Center Expansion | Medium | NA | CheckAgain |
 * |74|04-10-2025| Basic Calculator | Stack | Hard | NA | CheckAgain |
 > * |75|05-10-2025| Reconstruct Iternary |
 * |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
