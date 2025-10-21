@@ -93,5 +93,5 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |88|18-10-2025| Basic Calculator II |
 > * |89|19-10-2025| Maximal Rectangle |
 > * |90|20-10-2025| Concatenated Words |
-
+> * |91|21-10-2025| Longest Valid Parenthesis |
 
