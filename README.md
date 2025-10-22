@@ -94,4 +94,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |89|19-10-2025| Maximal Rectangle |
 > * |90|20-10-2025| Concatenated Words |
 > * |91|21-10-2025| Longest Valid Parenthesis |
-
+> * |92|22-10-2025| Kth Smallest Element In A Sorted Matrix |
