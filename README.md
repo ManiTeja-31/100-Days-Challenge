@@ -83,7 +83,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
 * |79|09-10-2025| N Queens | Backtracking + Pruning | Hard | NA | CheckAgain |
 * |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
-> * |81|11-10-2025| Maximum Profit In Job Scheduling | 
+* |81|11-10-2025| Maximum Profit In Job Scheduling | Dp + Binary Search | Hard | NA | CheckAgain |
 > * |82|12-10-2025| Count Of Smaller Numbers After Self |
 * |83|13-10-2025| Palindromic Substring | Dp/Expand around Center | Medium | NA | CheckAgain |
 * |84|14-10-2025| Word Ladder | BFS | Hard | NA |
@@ -95,4 +95,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |90|20-10-2025| Concatenated Words |
 > * |91|21-10-2025| Longest Valid Parenthesis |
 > * |92|22-10-2025| Kth Smallest Element In A Sorted Matrix |
-> * |93|23-10-2025| Trapping Rainwater |
+* |93|23-10-2025| Trapping Rainwater | Two Pointers/Stack | Hard | NA | CheckAgain |
