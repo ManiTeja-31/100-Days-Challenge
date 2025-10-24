@@ -84,7 +84,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |79|09-10-2025| N Queens | Backtracking + Pruning | Hard | NA | CheckAgain |
 * |80|10-10-2025| Merge Intervals | Greedy + Sorting | Medium | NA |
 * |81|11-10-2025| Maximum Profit In Job Scheduling | Dp + Binary Search | Hard | NA | CheckAgain |
-> * |82|12-10-2025| Count Of Smaller Numbers After Self |
+* |82|12-10-2025| Count Of Smaller Numbers After Self | MergeSort/Binary Indexed Tree | Hard | NA | IMP |
 * |83|13-10-2025| Palindromic Substring | Dp/Expand around Center | Medium | NA | CheckAgain |
 * |84|14-10-2025| Word Ladder | BFS | Hard | NA |
 * |85|15-10-2025| Burst Ballons | Dp | Hard | NA | CheckAgain |
