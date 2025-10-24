@@ -96,3 +96,5 @@ Solving 100 problems with different patterns for Interview Preparation
 * |91|21-10-2025| Longest Valid Parenthesis | Stack/Dp | Hard | NA | IMP | 
 > * |92|22-10-2025| Kth Smallest Element In A Sorted Matrix |
 * |93|23-10-2025| Trapping Rainwater | Two Pointers/Stack | Hard | NA | CheckAgain |
+* |94|24-10-2025|  Word Ladder | BFS | Hard | NA |
+
