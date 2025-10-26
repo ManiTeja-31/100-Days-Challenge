@@ -98,3 +98,4 @@ Solving 100 problems with different patterns for Interview Preparation
 * |93|23-10-2025| Trapping Rainwater | Two Pointers/Stack | Hard | NA | CheckAgain |
 * |94|24-10-2025|  Word Ladder | BFS | Hard | NA |
 * |95|25-10-2025| Median Of Two Sorted Arrays | Binary Serach | Hard | NA | IMP |
+> * |96|26-10-2025| Regular Expression Matching |
