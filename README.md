@@ -31,7 +31,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |26|17-08-2025| Find All Anagrams In a String | Sliding Window + Frequency  Count | Medium | NA |
 * |27|18-08-2025| Subarray Sum divisible By k | Sliding Window | Medium | NA | Notes + Checkagain |
 * |28|19-08-2025| Fruits Into Basket | Medium | Sliding Window | NA | CheckAgain |
-> * |29|20-08-2025| Sliding Window Median | Hard | NA | NotStarted |
+* |29|20-08-2025| Sliding Window Median | Sliding Window + Heaps | Hard | NA | IMP |
 * |30|21-08-2025| Longest Subarray of 1's After Deleting One Element | Sliding Window | Medium | NA |
 * |31|22-08-2025| Valid Parentheses | Stack | Easy | NA | 
 * |32|23-08-2025| Evaluate Reverse Polish Notation | Stack | Medium | NA |
