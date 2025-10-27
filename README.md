@@ -40,7 +40,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |35|26-08-2025| Daily Temparatures | Monotonic Stack | Medium | NA |
 * |36|27-08-2025| Inorder Successor In BST | Stack or Recursion | Easy | NA | CheckAgain |
 * |37|28-08-2025| Simplify Path | Stack | Medium | NA | CheckAgain |
-> * |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | NotStarted |
+* |38|29-08-2025| Largest Rectangle In Histogram | Stack | Hard | NA | CheckAgain |
 * |39|30-08-2025| Basic Calculator | Stack | Hard | NA | CheckAgain |
 * |40|31-08-2025| Decode String | Stack | Medium | NA | CheckAgain |
 * |41|01-09-2025| 3Sum | Two Pointer + Sorting | Medium | NA | 
@@ -100,3 +100,4 @@ Solving 100 problems with different patterns for Interview Preparation
 * |95|25-10-2025| Median Of Two Sorted Arrays | Binary Serach | Hard | NA | IMP |
 > * |96|26-10-2025| Regular Expression Matching |
 * |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | Hard | NA | VeryIMP |
+
