@@ -100,4 +100,4 @@ Solving 100 problems with different patterns for Interview Preparation
 * |95|25-10-2025| Median Of Two Sorted Arrays | Binary Serach | Hard | NA | IMP |
 > * |96|26-10-2025| Regular Expression Matching |
 * |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | Hard | NA | VeryIMP |
-
+* |98|28-10-2025| Word Break | Dp/Trie | Medium | NA | CheckAgain |
