@@ -48,8 +48,8 @@ Solving 100 problems with different patterns for Interview Preparation
 * |43|03-09-2025| Container With Most Water | Two Pointer | Medium | NA |
 * |44|04-09-2025| Merge Intervals | Greedy + Sorting | Medium | NA | 
 * |45|05-09-2025| Insert Interval | Merging Intervals | Medium | NA | CheckAgain |
-* |46|06-09-2025| Non Overlapping Intervals | Greedy + Sorting | NA | CheckAgain + Notes |
-> * |47|07-09-2025| Meeting Rooms II | Greedy + Min Heap | 
+* |46|06-09-2025| Non Overlapping Intervals | Greedy + Sorting | Medium | NA | CheckAgain + Notes |
+* |47|07-09-2025| Meeting Rooms II | Greedy + Min Heap/ Sweep Lines | Medium | NA | IMP |
 * |48|08-09-2025| Find The Duplicate Number | Floyd’s Cycle Detection / Binary Search | NA | CheckAgain |
 * |49|09-09-2025| Longest Consecutive Sequence | Hashing | NA | CheckAgain |
 * |50|10-09-2025| Valid Parenthesis | Stack | Easy | NA |
@@ -101,3 +101,4 @@ Solving 100 problems with different patterns for Interview Preparation
 > * |96|26-10-2025| Regular Expression Matching |
 * |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | Hard | NA | VeryIMP |
 * |98|28-10-2025| Word Break | Dp/Trie | Medium | NA | CheckAgain |
+
