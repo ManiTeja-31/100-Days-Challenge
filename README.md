@@ -88,7 +88,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |83|13-10-2025| Palindromic Substring | Dp/Expand around Center | Medium | NA | CheckAgain |
 * |84|14-10-2025| Word Ladder | BFS | Hard | NA |
 * |85|15-10-2025| Burst Ballons | Dp | Hard | NA | CheckAgain |
-> * |86|16-10-2025| Design Twitter |
+* |86|16-10-2025| Design Twitter | Design + Heap/Map | Medium | NA |
 * |87|17-10-2025| Minimum  Window Substring | Sliding Window + Freq Matching | Hard | NA | CheckAgain |
 > * |88|18-10-2025| Basic Calculator II |
 * |89|19-10-2025| Maximal Rectangle | Stacks | Hard | NA | CheckAgain |
