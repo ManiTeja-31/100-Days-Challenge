@@ -77,7 +77,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |72|02-10-2025| Subarray Sum Equals K | Prefixsum + Hashmap | Medium | NA | CheckAgain |
 * |73|03-10-2025| Longest Palindromic Substring | Dp/Center Expansion | Medium | NA | CheckAgain |
 * |74|04-10-2025| Basic Calculator | Stack | Hard | NA | CheckAgain |
-> * |75|05-10-2025| Reconstruct Iternary |
+* |75|05-10-2025| Reconstruct Iternary | DFS | Hard | NA | CheckAgain |
 * |76|06-10-2025| Kth Largest Element In an Array | QuickSelect/Heap | Medium | NA |
 * |77|07-10-2025| Number Of Islands | BFS/DFS | Medium | NA |
 * |78|08-10-2025| Word Search | DFS + BackTracking | Medium | NA |
