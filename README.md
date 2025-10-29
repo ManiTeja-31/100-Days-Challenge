@@ -90,7 +90,7 @@ Solving 100 problems with different patterns for Interview Preparation
 * |85|15-10-2025| Burst Ballons | Dp | Hard | NA | CheckAgain |
 * |86|16-10-2025| Design Twitter | Design + Heap/Map | Medium | NA |
 * |87|17-10-2025| Minimum  Window Substring | Sliding Window + Freq Matching | Hard | NA | CheckAgain |
-> * |88|18-10-2025| Basic Calculator II |
+* |88|18-10-2025| Basic Calculator II | Stacks | Hard | NA | CheckAgain |
 * |89|19-10-2025| Maximal Rectangle | Stacks | Hard | NA | CheckAgain |
 * |90|20-10-2025| Concatenated Words | Trie+Dp | Hard | NA | VeryIMP |
 * |91|21-10-2025| Longest Valid Parenthesis | Stack/Dp | Hard | NA | IMP | 
