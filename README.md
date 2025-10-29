@@ -101,4 +101,4 @@ Solving 100 problems with different patterns for Interview Preparation
 * |96|26-10-2025| Regular Expression Matching | Dp/Recursion | Hard | NA | CheckAgain |
 * |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | Hard | NA | VeryIMP |
 * |98|28-10-2025| Word Break | Dp/Trie | Medium | NA | CheckAgain |
-> * |99|29-10-2025| Alien Dictionary | 
+* |99|29-10-2025| Alien Dictionary | Topological Sort | Hard | NA | CheckAgain |
