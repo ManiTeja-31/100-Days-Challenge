@@ -93,12 +93,13 @@ Solving 100 problems with different patterns for Interview Preparation
 * |88|18-10-2025| Basic Calculator III | Stacks | <span style="color:#FF0000">Hard</span> | NA | CheckAgain |
 * |89|19-10-2025| Maximal Rectangle | Stacks | <span style="color:#FF0000">Hard</span> | NA | CheckAgain |
 * |90|20-10-2025| Concatenated Words | Trie+Dp | <span style="color:#FF0000">Hard</span> | NA | VeryIMP |
-* |91|21-10-2025| Longest Valid Parenthesis | Stack/Dp | <span style="color:#FF0000">Hard</span> | NA | IMP | 
-* |92|22-10-2025| Kth Smallest Element In A Sorted Matrix | Heaps/Binary Search | <span style="color:#FFA500">Medium</span> | NA | CheckAgain |
-* |93|23-10-2025| Trapping Rainwater | Two Pointers/Stack | <span style="color:#FF0000">Hard</span> | NA | CheckAgain |
-* |94|24-10-2025|  Word Ladder | BFS | <span style="color:#FF0000">Hard</span> | NA |
-* |95|25-10-2025| Median Of Two Sorted Arrays | Binary Serach | <span style="color:#FF0000">Hard</span> | NA | IMP |
-* |96|26-10-2025| Regular Expression Matching | Dp/Recursion | <span style="color:#FF0000">Hard</span> | NA | CheckAgain |
-* |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | <span style="color:#FF0000">Hard</span> | NA | VeryIMP |
-* |98|28-10-2025| Word Break | Dp/Trie | <span style="color:#FFA500">Medium</span> | NA | CheckAgain |
-* |99|29-10-2025| Alien Dictionary | Topological Sort | <span style="color:#FF0000">Hard</span> | NA | CheckAgain |
+* |91|21-10-2025| Longest Valid Parenthesis | Stack/Dp | Hard | NA | IMP | 
+* |92|22-10-2025| Kth Smallest Element In A Sorted Matrix | Heaps/Binary Search | Medium | NA | CheckAgain |
+* |93|23-10-2025| Trapping Rainwater | Two Pointers/Stack | Hard | NA | CheckAgain |
+* |94|24-10-2025|  Word Ladder | BFS | Hard | NA |
+* |95|25-10-2025| Median Of Two Sorted Arrays | Binary Serach | Hard | NA | IMP |
+* |96|26-10-2025| Regular Expression Matching | Dp/Recursion | Hard | NA | CheckAgain |
+* |97|27-10-2025| The Skyline Problem | Sweep Line + Heaps | Hard | NA | VeryIMP |
+* |98|28-10-2025| Word Break | Dp/Trie | Medium | NA | CheckAgain |
+* |99|29-10-2025| Alien Dictionary | Topological Sort | Hard | NA | CheckAgain |
+* |100|30-10-2025| Design Twitter | Design + Map | Medium | NA |
